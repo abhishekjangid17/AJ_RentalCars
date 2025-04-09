@@ -33,7 +33,7 @@ function Footer() {
                   style={{ fontSize: "14px"   }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://devrahuls.vercel.app/"
+                  href=""
                 >
                    <u>Abhishek Jangid </u> 
                 </a>
